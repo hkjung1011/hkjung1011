@@ -7,6 +7,10 @@
   <img src="./assets/hero.png" alt="pixel-art lofi coder bedroom — rainy night, headphones, dual monitors, cat" width="440" />
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="440" alt="neon divider" />
+</p>
+
 <h1 align="center">HK Jung</h1>
 
 <p align="center">
@@ -14,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Industrial+computer+vision+that+runs+offline;LLM+agent+systems+wired+into+real+jobs;Windows+runtime+%26+binary+analysis;Tools+scoped+to+ship+and+earn&font=Fira+Code&center=true&width=680&height=50&color=7aa2f7&vCenter=true&size=20&pause=1200" alt="rotating taglines" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Industrial+computer+vision+that+runs+offline;LLM+agent+systems+wired+into+real+jobs;Windows+runtime+%26+binary+analysis;Tools+scoped+to+ship+and+earn&font=Fira+Code&center=true&width=680&height=50&color=ff006e&vCenter=true&size=20&pause=1200" alt="rotating taglines" />
 </p>
 
 <p align="center">
@@ -22,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hkjung1011"><img src="https://komarev.com/ghpvc/?username=hkjung1011&label=Profile%20views&color=7aa2f7&style=flat" alt="profile views" /></a>
+  <a href="https://github.com/hkjung1011"><img src="https://komarev.com/ghpvc/?username=hkjung1011&label=Profile%20views&color=ff006e&style=flat" alt="profile views" /></a>
   <img src="https://img.shields.io/github/followers/hkjung1011?label=Follow&style=social&logoColor=white" alt="followers" />
 </p>
 
@@ -64,12 +68,12 @@
   <tr>
     <td valign="top" width="50%">
       <a href="https://github.com/hkjung1011/autolabel-ml-platform-demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkjung1011&repo=autolabel-ml-platform-demo&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkjung1011&repo=autolabel-ml-platform-demo&theme=radical&hide_border=true" />
       </a>
     </td>
     <td valign="top" width="50%">
       <a href="https://github.com/hkjung1011/vision-autolabel-demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkjung1011&repo=vision-autolabel-demo&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkjung1011&repo=vision-autolabel-demo&theme=radical&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -119,8 +123,8 @@ Private repositories available on request.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hkjung1011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkjung1011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hkjung1011&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkjung1011&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -128,7 +132,7 @@ Private repositories available on request.
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkjung1011&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Commit%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkjung1011&theme=react-dark&hide_border=true&area=true&radius=8&custom_title=Commit%20Activity" />
 </p>
 
 ---
@@ -151,7 +155,7 @@ Private repositories available on request.
 
 <p align="center">
   <a href="https://open.spotify.com/user/hkjung1011">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hkjung1011&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=false&bar_color=7aa2f7&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hkjung1011&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=false&bar_color=ff006e&bar_color_cover=false" />
   </a>
 </p>
 
