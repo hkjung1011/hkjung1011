@@ -1,6 +1,6 @@
 <!--
-  HERO — pixel-art lofi bedroom (personal portfolio use)
-  Source: https://kr.pinterest.com/pin/33143747255985212/ (original artist unknown)
+  HERO — illustrated hacker den scene (personal portfolio use)
+  Source: https://kr.pinterest.com/pin/92886811061781764/ (original artist unknown)
 -->
 
 <div align="center">
@@ -8,11 +8,11 @@
 </div>
 
 <div align="center">
-  <img src="./assets/hero.png" alt="pixel-art lofi coder bedroom — rainy night, headphones, dual monitors, cat" width="520" />
+  <img src="./assets/hero.png" alt="illustrated hacker den — 4 monitors, colorful code, cables, dark room" width="720" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="520" alt="neon divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="720" alt="neon divider" />
 </p>
 
 <p align="center">
