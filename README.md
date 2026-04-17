@@ -15,6 +15,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="520" alt="neon divider" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0a0a15" alt="status online" />
+  <img src="https://img.shields.io/badge/UPLINK-STABLE-00f5ff?style=for-the-badge&labelColor=0a0a15" alt="uplink stable" />
+  <img src="https://img.shields.io/badge/NODE-hkjung1011-ff006e?style=for-the-badge&labelColor=0a0a15" alt="node identifier" />
+</p>
+
 <h1 align="center">HK Jung</h1>
 
 <p align="center">
