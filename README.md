@@ -4,11 +4,15 @@
 -->
 
 <div align="center">
-  <img src="./assets/hero.png" alt="pixel-art lofi coder bedroom — rainy night, headphones, dual monitors, cat" width="440" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:b000ff,100:00f5ff&height=140&animation=fadeIn&section=header" width="100%" alt="cyberpunk neon wave banner" />
+</div>
+
+<div align="center">
+  <img src="./assets/hero.png" alt="pixel-art lofi coder bedroom — rainy night, headphones, dual monitors, cat" width="520" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="440" alt="neon divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="520" alt="neon divider" />
 </p>
 
 <h1 align="center">HK Jung</h1>
@@ -30,7 +34,9 @@
   <img src="https://img.shields.io/github/followers/hkjung1011?label=Follow&style=social&logoColor=white" alt="followers" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="70%" alt="" />
+</p>
 
 ### 🛠 Tech Stack
 
@@ -51,7 +57,9 @@
   <img src="https://img.shields.io/badge/MobileSAM-FF6B6B?style=flat-square&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="70%" alt="" />
+</p>
 
 ### 🎯 Focus
 
@@ -60,7 +68,9 @@
 - **Windows runtime & systems research** — binary / runtime inspection, device-identity enumeration, process-isolation studies
 - **Desktop-first delivery** — PySide6 + PyInstaller apps that run offline on factory-floor and air-gapped machines
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="70%" alt="" />
+</p>
 
 ### 📌 Featured Repositories
 
@@ -97,7 +107,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="70%" alt="" />
+</p>
 
 ### 🔒 Applied Research (Private)
 
@@ -108,7 +120,9 @@
 
 Private repositories available on request.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="70%" alt="" />
+</p>
 
 ### 🧭 Engineering Principles
 
@@ -118,7 +132,9 @@ Private repositories available on request.
 - Every label, weight, dataset, and run carries the signature that produced it
 - Prototypes are scoped so they can become commercial tools without a rewrite
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="70%" alt="" />
+</p>
 
 ### 📊 GitHub Stats
 
@@ -127,7 +143,9 @@ Private repositories available on request.
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkjung1011&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="70%" alt="" />
+</p>
 
 ### 📈 Contribution Activity
 
@@ -135,7 +153,9 @@ Private repositories available on request.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkjung1011&theme=react-dark&hide_border=true&area=true&radius=8&custom_title=Commit%20Activity" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="70%" alt="" />
+</p>
 
 ### 🐍 Contribution Snake
 
@@ -149,7 +169,9 @@ Private repositories available on request.
 
 <sub align="center">Auto-generated daily via <a href="https://github.com/Platane/snk">Platane/snk</a> — shows my contribution grid being eaten by a snake.</sub>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="70%" alt="" />
+</p>
 
 ### 🎵 Now Playing on Spotify
 
@@ -161,7 +183,9 @@ Private repositories available on request.
 
 <sub align="center">Widget goes live once Spotify is authenticated via <a href="https://spotify-github-profile.kittinanx.com">spotify-github-profile</a> (3-step OAuth).</sub>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:b000ff,100:00f5ff&height=4&section=header" width="70%" alt="" />
+</p>
 
 <p align="center">
   <sub>Reach me via issues on any of the repositories above.</sub>
