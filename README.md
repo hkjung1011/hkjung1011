@@ -1,12 +1,17 @@
 <!--
-  HERO BANNER
-  Replace the capsule-render URL below with your own pixel-art banner image
-  when you have one. Recommended size: 1600×400. Keep the layout structure.
+  HERO — pixel-art lofi bedroom (personal portfolio use)
+  Source: https://kr.pinterest.com/pin/33143747255985212/ (original artist unknown)
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0f23,30:1a1b27,60:414868,100:7aa2f7&text=HK%20Jung&animation=fadeIn&fontSize=72&fontColor=c0caf5&fontAlignY=36&desc=Applied+ML+%C2%B7+LLM+agent+systems+%C2%B7+Computer+vision&descSize=18&descAlignY=56" alt="hero banner" />
+  <img src="./assets/hero.png" alt="pixel-art lofi coder bedroom — rainy night, headphones, dual monitors, cat" width="440" />
 </div>
+
+<h1 align="center">HK Jung</h1>
+
+<p align="center">
+  <em>Applied ML · LLM agent systems · Computer vision</em>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Industrial+computer+vision+that+runs+offline;LLM+agent+systems+wired+into+real+jobs;Windows+runtime+%26+binary+analysis;Tools+scoped+to+ship+and+earn&font=Fira+Code&center=true&width=680&height=50&color=7aa2f7&vCenter=true&size=20&pause=1200" alt="rotating taglines" />
