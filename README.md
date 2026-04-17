@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hkjung1011"><img src="https://komarev.com/ghpvc/?username=hkjung1011&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
-  <img src="https://img.shields.io/github/followers/hkjung1011?label=Follow&style=social" alt="followers" />
+  <a href="https://github.com/hkjung1011"><img src="https://komarev.com/ghpvc/?username=hkjung1011&label=Profile%20views&color=7aa2f7&style=flat" alt="profile views" /></a>
+  <img src="https://img.shields.io/github/followers/hkjung1011?label=Follow&style=social&logoColor=white" alt="followers" />
 </p>
 
 ---
@@ -16,19 +16,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,qt,opencv,docker,git,github,vscode,bash,ts,powershell,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,qt,opencv,docker,git,github,vscode,bash,ts,powershell,windows,linux&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?logoColor=black" />
-  <img src="https://img.shields.io/badge/Ultralytics-042AFF?logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySide6-41CD52?logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyInstaller-367B99?logoColor=white" />
-  <img src="https://img.shields.io/badge/uv-DE5FE9?logoColor=white" />
-  <img src="https://img.shields.io/badge/MobileSAM-FF6B6B?logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ultralytics-042AFF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyInstaller-367B99?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobileSAM-FF6B6B?style=flat-square&logoColor=white" />
 </p>
 
 ---
@@ -48,12 +48,12 @@
   <tr>
     <td valign="top" width="50%">
       <a href="https://github.com/hkjung1011/autolabel-ml-platform-demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkjung1011&repo=autolabel-ml-platform-demo&theme=default&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkjung1011&repo=autolabel-ml-platform-demo&theme=tokyonight&hide_border=true" />
       </a>
     </td>
     <td valign="top" width="50%">
       <a href="https://github.com/hkjung1011/vision-autolabel-demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkjung1011&repo=vision-autolabel-demo&theme=default&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hkjung1011&repo=vision-autolabel-demo&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -61,17 +61,17 @@
     <td valign="top" width="50%">
       <p>FastAPI platform for auto-labeling industrial vision data. Retinex restoration, defect-aware fusion, review queue, and YOLO training plans wired into a single visual pipeline runner.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB" />
-        <img src="https://img.shields.io/badge/FastAPI-009688" />
-        <img src="https://img.shields.io/badge/License-MIT-green" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
     <td valign="top" width="50%">
       <p>Desktop auto-labeling toolkit with signature-bound provenance. YOLO-assisted annotation and YOLO / YOLO-seg / COCO export. Fully offline, factory-floor ready.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB" />
-        <img src="https://img.shields.io/badge/PySide6-41CD52" />
-        <img src="https://img.shields.io/badge/License-MIT-green" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -103,13 +103,8 @@ Private repositories available on request.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hkjung1011&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hkjung1011&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkjung1011&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hkjung1011&theme=default&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hkjung1011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkjung1011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -117,16 +112,34 @@ Private repositories available on request.
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkjung1011&theme=github-light&hide_border=true&area=true&radius=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkjung1011&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Commit%20Activity" />
 </p>
 
 ---
 
-### 🏆 Trophies
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hkjung1011&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hkjung1011/hkjung1011/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hkjung1011/hkjung1011/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/hkjung1011/hkjung1011/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
+<sub align="center">Auto-generated daily via <a href="https://github.com/Platane/snk">Platane/snk</a> — shows my contribution grid being eaten by a snake.</sub>
+
+---
+
+### 🎵 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/hkjung1011">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hkjung1011&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=false&bar_color=7aa2f7&bar_color_cover=false" />
+  </a>
+</p>
+
+<sub align="center">Widget goes live once Spotify is authenticated via <a href="https://spotify-github-profile.kittinanx.com">spotify-github-profile</a> (3-step OAuth).</sub>
 
 ---
 
